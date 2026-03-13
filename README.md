@@ -14,3 +14,4 @@ Producing the dashboard improved understanding of where journals are printed and
 
 # Contents
 'Printing and Distribution Analysis.jpg' - screenshot of the Power BI report showing distribution locations of journals printed in the US, alongside filters to identify distribution locations of specific journals (sample data)
+'Raw data example.jpg' - a screenshot showing the structure of the raw data (redacted data), a file in this format was obtained for ~75 journals which were then combined and analysed
